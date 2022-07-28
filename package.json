@@ -21,6 +21,8 @@
     "@babel/core": "^7.12.9",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.66.13",
+    "detox": "^19.7.1",
+    "jest": "^28.1.2",
     "typescript": "~4.3.5"
   },
   "private": true
