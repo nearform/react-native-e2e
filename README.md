@@ -1,3 +1,5 @@
+# No longer required, can be deleted
+
 # Playground for Detox with a simple Android app
 To run the app:
 ```
